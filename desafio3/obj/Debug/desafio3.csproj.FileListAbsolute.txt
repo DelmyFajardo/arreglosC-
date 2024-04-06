@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\bin\Debug\desafio3.exe.config
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\bin\Debug\desafio3.exe
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\bin\Debug\desafio3.pdb
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\obj\Debug\desafio3.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\obj\Debug\desafio3.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\obj\Debug\desafio3.exe
+C:\Users\delmy\Desktop\tarea de arreglos\desafio3\obj\Debug\desafio3.pdb
